@@ -1,3 +1,3 @@
-class Admin::ArtistsController < ApplicationController
+class Admin::PreferencesController < ApplicationController
 
 end
